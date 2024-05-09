@@ -6,6 +6,8 @@ To execute Windows basic commands and batch scripting
 
 # DESIGN STEPS:
 
+
+
 ### Step 1:
 
 Navigate to any Windows environment installed on the system or installed inside a virtual environment like virtual box/vmware 
